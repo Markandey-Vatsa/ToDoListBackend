@@ -4,18 +4,18 @@ This is a backend RESTful API for a Todo List application built with Spring Boot
 Features
 
 
-# User registration and login with secure authentication 
+User registration and login with secure authentication 
 
-# CRUD operations on Todo items:
+CRUD operations on Todo items:
 
-# Create a new todo
+Create a new todo
 
-# Read (list) todos for authenticated user
+Read (list) todos for authenticated user
 
-# Update existing todos
+Update existing todos
 
-# Delete todos
+Delete todos
 
-# Password encryption using BCrypt
+Password encryption using BCrypt
 
-# Secure endpoints with Spring Security filters
+Secure endpoints with Spring Security filters
